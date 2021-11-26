@@ -1,0 +1,16 @@
+01. Array insert at end
+02. Array insert at index
+03. Get Element At Index
+04. Array Update At Index
+05. Array Delete And Shift
+06. Count Smaller Than X
+07. Count Elements Greater Than X
+08. Find Immediate Smaller Than X
+09. Find Immediate Greater Than X
+10. Who has the majority?
+11. Maximum and Minimum In Array
+12. Reverse The Array
+13. Rotate Array
+14. Sum of Array Elements
+15. Mean And Median of Array
+16. Is Array Sorted
